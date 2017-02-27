@@ -1,11 +1,17 @@
 {
     "name": "z0y/hello-world",
-    "description": "项目hello-world的描述。",
+    "description": "hello-world",
+    "license": "Apache-2.0",
     "authors": [
         {
-            "name": "yan",
+            "name": "z0y",
             "email": "zhao0yan@qq.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        
+        "files": [
+            "src/hello.php"
+        ]
+    }
 }

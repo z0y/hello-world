@@ -8,7 +8,6 @@
             "email": "zhao0yan@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         
         "files": [
